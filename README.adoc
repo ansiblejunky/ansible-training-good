@@ -1,6 +1,6 @@
 :toc: macro
 
-= good-ansible
+= ansible-training-good
 
 toc::[]
 
